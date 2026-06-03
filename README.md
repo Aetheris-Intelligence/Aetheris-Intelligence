@@ -153,6 +153,28 @@ Intelligence that **acts** is **transformative**.
 
 ---
 
+## 📂 &nbsp;Repository Structure
+
+<br/>
+
+<div align="center">
+
+| Repository | Description | Status |
+|:-----------|:------------|:------:|
+| [`Aetheris-Intelligence`](https://github.com/Aetheris-Intelligence/Aetheris-Intelligence) | 🏛️ Organization profile, overview, and documentation | 🟢 **Live** |
+| `aetheris-core` | 🧠 Core AI agent framework and orchestration engine | 🔨 **Building** |
+| `aetheris-agents` | 🕹️ Autonomous agent implementations and experiments | 🔨 **Building** |
+| `aetheris-automations` | ⚙️ Automation templates, scripts, and integrations | 🔨 **Building** |
+| `aetheris-tools` | 🛠️ Developer tools and productivity utilities | 📋 **Planned** |
+| `aetheris-docs` | 📚 Technical documentation and research notes | 📋 **Planned** |
+| `aetheris-experiments` | 🔬 Proof-of-concepts and exploratory research | 📋 **Planned** |
+
+</div>
+
+<br/>
+
+---
+
 ## 🤝 &nbsp;Work With Us
 
 <br/>
@@ -182,7 +204,7 @@ We are actively open to:
 
 <div align="center">
 
-*Building the future, one product at a time.*
+*Building the future of Autonomous General Intelligence*
 
 <br/>
 
